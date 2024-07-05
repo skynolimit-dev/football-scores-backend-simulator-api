@@ -1,0 +1,19 @@
+{
+  "name": "football-scores-backend-simulator-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Wagstaff",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1"
+  }
+}

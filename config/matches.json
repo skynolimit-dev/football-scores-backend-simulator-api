@@ -1,0 +1,8 @@
+{
+    "source": "https://www.fotmob.com/api/matches?date=20240701",
+    "matchIds": [
+        4043975
+    ],
+    "updateInterval": 1000,
+    "halfTimeInterval": 15000
+}
